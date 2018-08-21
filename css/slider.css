@@ -1,6 +1,6 @@
 body {
 	font-family: oswald, helvetica, arial, sans-serif;
-	background:url(bg.jpg), #000;
+	background:url(bg.jpg), rgb(5, 5, 5);
 	background-size: cover;
 	background-attachment:fixed;
 }
